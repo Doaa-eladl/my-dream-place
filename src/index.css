@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face { 
+    font-family: "sf"; 
+    src: url("../src/assets/SF-Pro-Display-Regular.ttf"); 
+} 
+
+body{
+    font-family: 'sf'
+}
+
+.footerlist{
+    @apply text-dark-gray text-sm not-italic font-normal leading-5 tracking-wide;
+}
+
+.btn{
+    @apply py-3 px-5 bg-light-blue rounded-md text-base font-medium text-white;
+}
+
+.btnrate{
+    @apply flex w-[50px] h-[46px] border justify-center items-center font-normal text-base text-black
+}

@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "eladl.doaa99@gmail.com",
+      "password": "123456789",
+      "count": 1,
+      "id": 1,
+      "mytrips": [
+        {
+          "hotelname": "Pyramids Station hostel",
+          "imgsrc": "https://cf.bstatic.com/xdata/images/hotel/square60/509646886.jpg?k=638681ae55c06b6f8b0bcf308ff91ea247e2f93ff801cec511c5b364d24b499a&o=",
+          "price": "776.387083754534",
+          "reviewnum": "5",
+          "intrate": "5",
+          "doublerate": "0"
+        },
+        {
+          "hotelname": "Great sphinx view hotel",
+          "imgsrc": "https://cf.bstatic.com/xdata/images/hotel/square60/508182274.jpg?k=9a45b38afda7c0168e0bba0d692a06d0e3895a0cddd105e642be88f2ba03622a&o=",
+          "price": "709.233202723103",
+          "reviewnum": "7",
+          "intrate": "5",
+          "doublerate": "0"
+        },
+        {
+          "hotelname": "Sharm Dreams Vacation Club - Aqua Park",
+          "imgsrc": "https://cf.bstatic.com/xdata/images/hotel/square60/444646486.jpg?k=6e214a39f81a8947987101981705f66c46c0beef8d75622106d4b5044eb76257&o=",
+          "price": "4452.75936709638",
+          "reviewnum": "1087",
+          "intrate": "3",
+          "doublerate": "5"
+        }
+      ]
+    }
+  ]
+}
