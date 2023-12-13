@@ -54,7 +54,7 @@ export default {
             url: 'https://booking-com15.p.rapidapi.com/api/v1/hotels/searchDestination',
             params: {query: 'egypt'},
             headers: {
-    'X-RapidAPI-Key': '3bbd786bf7msh381d8024cafb873p16c999jsncbfe3014d4d2',
+    'X-RapidAPI-Key': '791a7210d8msh96554b36fc24ce4p15b7e0jsn01f42917d427',
     'X-RapidAPI-Host': 'booking-com15.p.rapidapi.com'
             }
         };

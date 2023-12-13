@@ -2,6 +2,9 @@
   <main class="bg-light-gray">
     <section class="w-[1030px] mx-auto">
         <h1 class="mb-7 pt-16 text-zinc-900 font-semibold text-3xl">My trips</h1>
+        <div v-if="data.length==0" class="p-2 flex justify-center">
+          <h2>No Trips yet</h2>
+        </div>
         <tripcard :data="data"/>
     </section>
   <covedcheck class="pb-20 mt-52"/>

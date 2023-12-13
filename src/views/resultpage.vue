@@ -119,11 +119,11 @@
 </template>
 
 <script>
-import introsearchsection from '@/components/ResultPage\'/introsearchsection.vue'
+import introsearchsection from '@/components/ResultPage/introsearchsection.vue'
 import Searchbar from '@/components/repetativ component/searchbar.vue';
 import { onMounted , ref , watch} from 'vue';
 import { usebooking } from '@/stores/booking';
-import Hotelcard from '@/components/ResultPage\'/hotelcard.vue';
+import Hotelcard from '@/components/ResultPage/hotelcard.vue';
 //import Pagination from 'v-pagination-3';
 
 // import the package
@@ -195,11 +195,15 @@ export default {
         async function filterbybadget(){
             console.log(maxbudget.value , minbudget.value)
 
-            if(minbudget.value<0){
+            if(Number(minbudget.value)<0){
                 alert('minimam at least 0')
                 return 0
             }
-            if(maxbudget.value > minbudget.value){
+            if(Number(maxbudget.value)<=0){
+                alert("maxbudget can't be 0 or negative ")
+                return 0
+            }
+            if(Number(maxbudget.value) < Number(minbudget.value)){
                 alert("max should't be less than minimam")
                 return 0
             }
@@ -229,7 +233,7 @@ export default {
                 price_max: maxbudget.value
             },
             headers: {
-    'X-RapidAPI-Key': '3bbd786bf7msh381d8024cafb873p16c999jsncbfe3014d4d2',
+    'X-RapidAPI-Key': '791a7210d8msh96554b36fc24ce4p15b7e0jsn01f42917d427',
     'X-RapidAPI-Host': 'booking-com15.p.rapidapi.com'
             }
         };
@@ -247,7 +251,7 @@ export default {
                 room_qty: booking.searchvalobj.rooms,
             },
             headers: {
-    'X-RapidAPI-Key': '3bbd786bf7msh381d8024cafb873p16c999jsncbfe3014d4d2',
+    'X-RapidAPI-Key': '791a7210d8msh96554b36fc24ce4p15b7e0jsn01f42917d427',
     'X-RapidAPI-Host': 'booking-com15.p.rapidapi.com'
             }
         };

@@ -29,8 +29,23 @@
           "reviewnum": "1087",
           "intrate": "3",
           "doublerate": "5"
+        },
+        {
+          "hotelname": "Sunny lakes resort",
+          "imgsrc": "https://cf.bstatic.com/xdata/images/hotel/square60/405607305.jpg?k=d694b0b50b53f34038bf35d9ada50e37fe16c1dd7b9de079fbf11d6a07c34eb6&o=",
+          "price": "688.280442749057",
+          "reviewnum": "5",
+          "intrate": "4",
+          "doublerate": "5"
         }
       ]
+    },
+    {
+      "email": "d.hassan34@yahoo.com",
+      "password": "123456789",
+      "count": 0,
+      "mytrips": [],
+      "id": 2
     }
   ]
 }
