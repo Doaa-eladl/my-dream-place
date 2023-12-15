@@ -53,7 +53,7 @@ export default {
         currency_code: 'EUR'
       },
     headers: {
-    'X-RapidAPI-Key': '791a7210d8msh96554b36fc24ce4p15b7e0jsn01f42917d427',
+    'X-RapidAPI-Key': 'c11c2272a2mshf525a56b566b5f6p1d6fc0jsn3b80f6c0f5f7',
     'X-RapidAPI-Host': 'booking-com15.p.rapidapi.com'
     }
     };
