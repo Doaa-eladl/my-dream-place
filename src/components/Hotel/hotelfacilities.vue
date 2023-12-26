@@ -86,8 +86,8 @@ export default {
                 languagecode: 'en-us'
             },
             headers: {
-    'X-RapidAPI-Key': 'c11c2272a2mshf525a56b566b5f6p1d6fc0jsn3b80f6c0f5f7',
-    'X-RapidAPI-Host': 'booking-com15.p.rapidapi.com'
+    'X-RapidAPI-Key': 'cb2a25ab33mshe46673f1b46ae9cp1aba0cjsnc9b3d6ec05db',
+    'X-RapidAPI-Host': 'booking-com.p.rapidapi.com'
             }
         };
 
