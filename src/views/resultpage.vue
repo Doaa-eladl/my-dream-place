@@ -233,8 +233,8 @@ export default {
                 price_max: maxbudget.value
             },
             headers: {
-    'X-RapidAPI-Key': 'cb2a25ab33mshe46673f1b46ae9cp1aba0cjsnc9b3d6ec05db',
-    'X-RapidAPI-Host': 'booking-com.p.rapidapi.com'
+    'X-RapidAPI-Key': '105f1c26ebmshe4f3a7e1bfe78acp170125jsnfdfa0e753285',
+    'X-RapidAPI-Host': 'booking-com15.p.rapidapi.com'
             }
         };
 
@@ -251,8 +251,8 @@ export default {
                 room_qty: booking.searchvalobj.rooms,
             },
             headers: {
-    'X-RapidAPI-Key': 'cb2a25ab33mshe46673f1b46ae9cp1aba0cjsnc9b3d6ec05db',
-    'X-RapidAPI-Host': 'booking-com.p.rapidapi.com'
+    'X-RapidAPI-Key': '105f1c26ebmshe4f3a7e1bfe78acp170125jsnfdfa0e753285',
+    'X-RapidAPI-Host': 'booking-com15.p.rapidapi.com'
             }
         };
 
