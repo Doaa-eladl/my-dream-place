@@ -24,12 +24,12 @@ export default {
                 details:'Browse the fastest growing tourism sector in the heart of Australia tourism capital ....'
             },
             {
-                src:'https://s3-alpha-sig.figma.com/img/6390/7bbf/e1389fbfd0626d0dbbf233f324dc4d3c?Expires=1703462400&Signature=m-lPhzj5p1OwrAl5OWbTP3EL76bBACUbWeV0pYF8u3kFWvSwp35BvgyBevKS3OBxmDcsjDqRKdOLgxC9rCGld-GmewmpcWaSEBeDHw4Taw-bN8fS6AWB7mlJa0Ke-FMeyzVzplEuOrHWvX0gIpc~YYjjElboeN9CPwVJCjHgc3WrhqvJAqkYuGPBJzRqbkhlJnI01UAD58dvkxOgcuPllR0~n7BlXB2M9uT3lLxtxW0nz0cHC~dOsmOj1wuXWTf3HacPEsgbrdg59u~k7ELUF3sdXOSubeZRUWiAqajKEG9WRjl-7FFMNSMIunw0KE9dtHklj8ODz5nMgJMgHGW9ZQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4',
+                src:'https://s3-alpha-sig.figma.com/img/6390/7bbf/e1389fbfd0626d0dbbf233f324dc4d3c?Expires=1704672000&Signature=SZm2CHGazoDAOfKeMzHB4GhhYdKpsNlwRUUY9jLZOcoYRhSb0xjo8CWenFmS56dM0~2b9qFq1gjH3e3zxuMZEDMwQFHD8XPtEEz6MsPYn8pTnfxS-ju8sfICwjkq1JTD1-0yALJIA98yL1HO0pDBf3Jh54etKt5Re53g9NIlOQ5oLDrqWmbo77aoSnlrAaQieeoQg5DjYDKf5pUBj8HuLFxqQOfyUgWtE~IRdJI7VCeR5NRG1Hl196lY41LBEDv15hNbmz4nOfuJkni8R2GbZmbrRSPrQzXTCI-PuBVYLchf5b026NxyDDbgS~q9y15~9I9VCS26QkyoaY5FEcCInw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4',
                 pref:'Top cities for Vegan Travellers',
                 details:'Top sites where you do not have to worry about being a vegan. Our tourist guide is here...'
             },
             {
-                src:'https://s3-alpha-sig.figma.com/img/5792/a4d6/add7dcaab1b06c4f605d4b8c5d5a707f?Expires=1703462400&Signature=anH58EVkrd-DQvS1O5wU7fi263sBpNAUFW54n6~C0mblUA4E0hnMqRddqEfGHna0iOW5g7YRmG4dlxoILPyhViR1G1mjs0cq2eSH9F1mMyzXTJXU3Ai8dmXmseCd~u3yCqnbVesK2SFYbPx9AhVxzy6~EDaNfvEd6BuHRrpS5QpnkLzoMLFus-ApfFLehIgDsn4FZ3kZK9HVwNiMlTEBReI0i8S-4uPYSmLK-8hhG0HsWSYcDtzwYk6zaTP2uesHWN4zs~NoZErSVoZma0Gvh1gjwGkzKGs~i71GEWtN5OxBhDnbsIv-a4zuDCQYlmJJudBRn1egStVJlIiHwD~hsg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4',
+                src:'https://s3-alpha-sig.figma.com/img/5792/a4d6/add7dcaab1b06c4f605d4b8c5d5a707f?Expires=1704672000&Signature=Kn-WAt78NNaggKl-UZyCGCjodgwPjrLfxbCxmbxFZxYgw7t2wXCQ-G4HVdD5rCvB1DMx6fsKySmZUl8N8t5jPKeWMHvmWD3nFIRu1wzv6VJGyiQev7fCdPM9-XbmHEWlk6VEr5crCZE-XSOomROmk~C3Kv6qPFKQ7bDMaEZry7x0Ask9tZnq9A8B0Urp7OzfMzFcFA8KW6L-BqZviZA~iLS0NaHtyHChppI3lpO3V~I9XFDjsUW8OpFU1Fh1--PRFV91WyD7Zd4lOMxE7Qfr6T6kkpkUvcAQdiPpWjS81Mwk5aLPvImkyvWi-OeXWgfRnR-03SxGFohAwKcyIEgsTg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4',
                 pref:'World’s top destinations during and post covid timeline',
                 details:'Pandemic is still intact and will be here for a longer time. Here’s where your next destination...'
             },
